@@ -4,6 +4,9 @@
 
 ### A multi-page web project dedicated to Lego, with the intent to make it a 1:1 copy.
 This project showcases a responsive website built to learn to use css expertly. It involves some JavaScript, but the emphasis is upon using css to introduce breakpoints, in an effort to make it responsive.
+
+---
+
 ![Lego Mosaic Site Demo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lhcmVhdmswZTB4amM0eHJ0ZTZhemNsc254NTlxN2prbmVodGllZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qaa1yULXlI20SHLIVl/giphy.gif)
 
 ---
